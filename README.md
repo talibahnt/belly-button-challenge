@@ -12,12 +12,12 @@ The Belly Button Biodiversity project is an interactive web application that exp
 
 This dashboard allows users to dynamically explore the demographic metadata and microbial profiles of various test subjects.
 
-Live Application
+##Live Application
 Check out the live dashboard here:
 
 👉 Belly Button Biodiversity Dashboard: https://talibahnt.github.io/belly-button-challenge/
 
-Repository Structure
+##Repository Structure
 The core codebase is organized as follows:
 
 Plaintext
@@ -34,7 +34,7 @@ index.html: The main layout page that structures the dashboard using Bootstrap.
 
 app.js: Located under startercode/static/js/, this script handles data fetching, builds the interactive charts, and manages the dashboard's responsive updates.
 
-Features & Visualizations
+##Features & Visualizations
 Upon selecting a subject ID from the dropdown menu, the dashboard dynamically updates to display:
 
 Demographic Info Panel: Shows the selected individual's metadata (ID, ethnicity, gender, age, location, bbtype, and wfreq).
@@ -49,7 +49,7 @@ sample_values are mapped to the y-axis and marker sizes.
 
 otu_labels provide the hover text values.
 
-Technologies Used
+##Technologies Used
 JavaScript (ES6+)
 
 D3.js (Data-Driven Documents for data fetching and DOM manipulation)
@@ -62,7 +62,7 @@ Bootstrap 3 (For responsive dashboard layout)
 
 GitHub Pages (For project deployment)
 
-How to Run the Project Locally
+##How to Run the Project Locally
 Because the project fetches data via an external API/JSON file using D3, running the index.html file directly from your local file system may trigger CORS restrictions in some browsers.
 
 To run it locally:
