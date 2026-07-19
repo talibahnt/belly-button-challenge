@@ -29,6 +29,7 @@ belly-button-challenge/
 │   │       └── app.js   <-- Core JavaScript logic & Plotly charts
 │   └── index.html       <-- Main dashboard HTML page
 └── README.md
+
 index.html: The main layout page that structures the dashboard using Bootstrap.
 
 app.js: Located under startercode/static/js/, this script handles data fetching, builds the interactive charts, and manages the dashboard's responsive updates.
