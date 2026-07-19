@@ -15,7 +15,7 @@ This dashboard allows users to dynamically explore the demographic metadata and 
 Live Application
 Check out the live dashboard here:
 
-👉 Belly Button Biodiversity Dashboard
+👉 Belly Button Biodiversity Dashboard: https://talibahnt.github.io/belly-button-challenge/
 
 Repository Structure
 The core codebase is organized as follows:
